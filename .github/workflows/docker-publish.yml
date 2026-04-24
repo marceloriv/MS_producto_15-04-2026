@@ -24,3 +24,5 @@ jobs:
           context: .
           push: true
           tags: ${{secrets.DOCKER_USERNAME}} /producto-ms:latest
+
+          
